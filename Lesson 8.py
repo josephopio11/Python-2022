@@ -25,3 +25,16 @@ print(letters[7:23])
 print(letters[7:23:2])
 print(letters[7:23:3])
 
+# The syntax for truncating text is [start:stop:step]
+
+# Exercise 1: What is the output of letters[::-1]
+# Exercise 2: Print the last 5 letters of the variable "letters"
+#             using negative steps.
+
+musician = "Judith Babirye"
+# What is the output of these two?
+print(musician.upper())
+print(musician.lower())
+
+# Explain what this code does?
+shorter = musician.split(" ")
