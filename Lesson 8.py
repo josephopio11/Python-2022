@@ -20,3 +20,8 @@ print("The number of times letter 'e' occurs is", letters.count("e"))
 
 # Exercise: Print for me the number of times the letter "a"
 # occurs in your string "letters"
+
+print(letters[7:23])
+print(letters[7:23:2])
+print(letters[7:23:3])
+
