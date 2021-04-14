@@ -9,6 +9,7 @@ quotient = first_number/second_number
 difference = first_number - second_number
 
 # Displaying values
+
 print("The sum of the 2 numbers is ", sum)
 print("The product of the 2 numbers is ", product)
 print("The quotient of the 2 numbers is ", quotient)

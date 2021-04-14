@@ -1,9 +1,12 @@
 number = 1 + 2 - 3 * 4  # 3 - 12
 print(number)  # expected answer is -9
+
 # BODMAS
 # Remainer operations
+
 remainder = 11 % 7
 print(remainder)
+
 # Power operator
 square = 5 ** 2
 print(square)
