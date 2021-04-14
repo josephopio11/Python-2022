@@ -18,4 +18,3 @@ print("%s, you are %d years old. Can you see this %s?" % (name2, age, name))
 # Example 3 using a list
 my_list = ["Mike", "Samson", "Jane", "Eunice"]
 print("The students in my class are %s" % my_list)
-
