@@ -1,10 +1,7 @@
-# WHILE LOOP
-
 count = 0
 
-while True:
-    print('Joseph Opio')
+while count < 50:
+    print(count)
     count += 1
-    if count > 60:
-        break
-
+else:
+    print("You have reached the number ", count)
