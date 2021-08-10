@@ -2,7 +2,7 @@ number = 1 + 2 - 3 * 4  # 3 - 12
 print(number)  # expected answer is -9
 
 # BODMAS
-# Remainer operations
+# Remainer operations || Modulus
 
 remainder = 11 % 7
 print(remainder)

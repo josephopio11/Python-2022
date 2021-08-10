@@ -1,5 +1,7 @@
 print('Hello World')
 
+number = 8
+
 # print("I am 100 years old")
 name = input("What is your name? ")
 

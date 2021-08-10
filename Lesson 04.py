@@ -7,6 +7,9 @@ grade_12.append('Tina')
 
 # print(grade_12)
 # another comment
+#  x = None
 
 for x in grade_12:
     print(x)
+
+# print(x)
