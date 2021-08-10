@@ -1,14 +1,52 @@
-# Functions
+# How to make a function
 
-ninjas = ["Derrick", "Armel", "Darcy", "Okello", "Florian"]
-
-
-def greet(the_person):
-    print("\n")
-    print("Hello %s" % the_person)
-    print("How is your day? Hope all is well")
-    print("%s, Please go back to your father's house, I don't know you" % the_person)
+def name_of_the_function():
+    # Here is what will be executed
+    pass
 
 
-for persons in ninjas:
-    greet(persons)
+def say_hi():
+    print("Hi")
+
+
+say_hi()
+
+
+# passing values into a function
+def display(value):
+    print("You typed into the function the number: %d" % value)
+
+
+display(103)
+
+
+# number = int(input("Please enter a number: "))
+# display(number)
+
+
+def sum(a, b):
+    print(a + b)
+
+
+x = int(input("Enter first number: "))
+y = int(input("Enter second number: "))
+sum(x, y)
+
+
+def identify(name, date_of_birth, village):
+    print("Your name is: %s" % name)
+    print("Your age is: %d" % (2021 - date_of_birth))
+    print("You come from: %s" % village)
+
+
+a = input("Name: ")
+b = int(input("Year of birth"))
+c = input("Village: ")
+identify(a, b, c)
+
+
+def multiply_numbers(i, j):
+    return i * j
+
+
+print(multiply_numbers(6, 9))
