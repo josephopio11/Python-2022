@@ -1,6 +1,6 @@
 # Python-2022
 
-Here is the class work that is always done with the Year 12 Class in python programming
+Here is the work we have been doing in class for reference and revision purposes
 
 ## Lesson 01
 
