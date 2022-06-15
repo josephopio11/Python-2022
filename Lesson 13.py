@@ -2,7 +2,7 @@
 
 # FOR
 year_12 = ['Dalton', 'Derrick', 'Fatma', 'Havilla']
-#
+
 # for x in year_12:
 #     print(x)
 

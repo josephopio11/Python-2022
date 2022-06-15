@@ -17,6 +17,7 @@ g1 = "Hello"
 g2 = "World"
 greeting = g2 + g1 + g1 + g2  # CONCATENATION
 print(greeting)
+
 # Multiplication of Strings
 lots_of_greetings = g1 * 10
 print(lots_of_greetings)

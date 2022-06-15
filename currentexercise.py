@@ -15,7 +15,7 @@ class Vehicle:
         return desc_str
 
 
-# your code goes here
+# your code goes here Please complete the work
 
 car1 = Vehicle()
 car1.kind = "convertible"

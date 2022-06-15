@@ -24,11 +24,6 @@ prius = Cars()
 
 
 
-
-
-
-
-
 # Cars.number_of_tyres = 6
 #
 # print(Cars.number_of_tyres)

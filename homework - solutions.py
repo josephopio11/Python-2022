@@ -20,6 +20,7 @@ class IOString:
 
     def print_string(self):
         print(self.str1.upper())
+    # All these are in the same class
 
 
 str1 = IOString()

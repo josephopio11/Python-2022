@@ -3,6 +3,7 @@ statement_1 = "I come from Kinanira"
 statement_2 = "This means I am a Kinanirarian"
 
 print("The length of statement_1 is: ", len(statement_1))
+
 # Print for me the length of "statement_2"
 
 # Finding out the position of a letter in a string

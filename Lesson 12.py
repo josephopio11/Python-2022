@@ -3,9 +3,9 @@ animals = ['cow', 'goat', 'pig', 'chicken', 'sheep']
 # print('cow' in animals)
 # print('pig' in animals)
 # print('lion' in animals)
-#
-# # Exercise: what is the output of the following lines
-#
+
+# Exercise: what is the output of the following lines
+
 # print('o' in 'Joshua')
 # print('k' in 'chicken')
 # print('she' in 'She is the right person for the job')

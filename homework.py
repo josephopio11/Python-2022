@@ -10,6 +10,7 @@ def compare(a, b):
 
 print(compare(5, 4))
 
+# Please finish the homework below
 
 # Write a Python class named Circle constructed by radius and two methods which will
 # compute the area and the perimeter of the circle

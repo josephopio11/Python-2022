@@ -19,7 +19,6 @@ def display(value):
 
 display(103)
 
-
 # number = int(input("Please enter a number: "))
 # display(number)
 
